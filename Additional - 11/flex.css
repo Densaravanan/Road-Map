@@ -1,0 +1,19 @@
+section{
+    display: flex;
+    flex-direction: row;
+    height: 90vh;
+    border: 2px dotted purple;
+}
+
+.Red {
+    height: 75px;
+    background-color: rgb(7, 250, 217);
+}
+.Green {
+    height: 100px;
+    background-color: blue;
+}
+.Blue {
+    height: 150px;
+    background-color: aqua;
+}

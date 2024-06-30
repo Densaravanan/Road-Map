@@ -1,0 +1,29 @@
+p {
+    font-size: 1.75rem;
+    margin: 1.5rem;
+    padding: 2rem;
+    border: 2px solid black;
+}
+
+#para {
+    background-color: lightblue;
+}
+
+section {
+    position: ;
+}
+
+
+#box {
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    width: 15rem;
+    height: 10rem;
+    border: 2px solid rgb(223, 73, 73);
+    background-color: lightsalmon;
+}
+
+#long {
+    background-color: lightseagreen;
+}
